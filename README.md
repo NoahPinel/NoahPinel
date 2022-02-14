@@ -11,7 +11,6 @@ Third year (BSc)
     * Combinatorics and Graph Theory 
      * Algebra
       * Number Theory 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahPinel&theme=Dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0pine&theme=dark&show_icons=true)
 
 
