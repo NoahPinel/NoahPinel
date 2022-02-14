@@ -1,5 +1,5 @@
 ### ***Computer Science Student at the University of Calgary*** :desktop_computer:
-https://img.shields.io/website-up-down-green-red/http/noah.pinel@binaryfox.ca
+https://img.shields.io/website-up-down-green-red/
 Third year (BSc)
 * Major: Computer Science 
   * Concentration in Theoretical Computer Science
