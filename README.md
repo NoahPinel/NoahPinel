@@ -1,5 +1,5 @@
 ### ***Computer Science Student***
-[Profile](http://noah.binaryfox.ca/).
+
 
 
 
