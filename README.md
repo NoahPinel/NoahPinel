@@ -4,7 +4,8 @@ Third year (BSc)
   * Concentration in Theoretical CompSci
     * Computability
      * Complexity Theory
-      * Low level 
+      * Low Level Programming
+      * Cryptography  
 * Minor: Mathematics
   * General Math
     * Combinatorics and Graph Theory 
