@@ -1,4 +1,4 @@
-### ***Computer Science Student at the University of Calgary***
+###:computer: ***Computer Science Student at the University of Calgary***
 
 
 
