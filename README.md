@@ -1,7 +1,7 @@
 ### ***Computer Science Student at the University of Calgary*** :desktop_computer:
 Third year (BSc)
 * Major: Computer Science 
-  * Concentration in Theoretical CompSci
+  * Concentration in Theoretical Computer Science
     * Computability
      * Complexity Theory
       * Low Level Programming
