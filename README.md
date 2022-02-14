@@ -23,3 +23,4 @@ Third year (BSc)
 
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://noah.binaryfox.ca/)
+[![Website shields.io](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
