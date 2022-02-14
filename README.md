@@ -1,6 +1,6 @@
 ### ***Computer Science Student at the University of Calgary*** :desktop_computer:
-Third year (BSc) *Major: Computer Science 
-                 *Minor: General Mathematics 
+Third year (BSc) - Major: Computer Science 
+                 - Minor: General Mathematics 
 
 
 
