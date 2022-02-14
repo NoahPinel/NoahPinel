@@ -26,5 +26,5 @@ Third year (BSc)
 
 
 
-[![Website shields.io](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Website shields.io](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
