@@ -7,12 +7,13 @@ Third year (BSc)
     * Computability
      * Computational Complexity
       * Low Level Programming
-      * Cryptography  
+      * Cryptography
+       * Computational Number Theory  
 * Minor: Mathematics
   * General Math
     * Combinatorics and Graph Theory 
      * Algebra
-      * Number Theory 
+      * Algebraic Number Theory 
 
 
 
