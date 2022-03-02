@@ -17,7 +17,7 @@ Third year (BSc)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahPinel&theme=dark&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahPinel&theme=nordk&show_icons=true&count_private=true)
 
 
 
