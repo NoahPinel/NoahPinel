@@ -4,16 +4,14 @@
 Third year (BSc)
 * Major: Computer Science 
   * Concentration in Theoretical Computer Science
-    * Computability
      * Computational Complexity
-      * Low Level Programming
-      * Cryptography
-       * Computational Number Theory  
+      * Compilers
+      * Cryptography  
 * Minor: Mathematics
   * General Math
     * Combinatorics and Graph Theory 
      * Algebra
-      * Algebraic Number Theory 
+      * Number Theory 
 
 
 
