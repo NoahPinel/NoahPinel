@@ -11,7 +11,8 @@ Third year (BSc)
   * General Math
     * Combinatorics and Graph Theory 
      * Algebra
-      * Number Theory 
+      * Number Theory
+      * Analysis 
 
 
 
