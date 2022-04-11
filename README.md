@@ -1,7 +1,3 @@
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://noah.binaryfox.ca/)
-![Website shields.io](https://img.shields.io/badge/Maintained%3F-yes-green.svg)\
-[Personal Site](http://noah.binaryfox.ca/)\
-[Finite Babel](https://noahpinel.github.io/FiniteBabel/)
 ### ***Computer Science Student at the University of Calgary*** 
 Third year (BSc)
 * Major: Computer Science 
@@ -17,7 +13,9 @@ Third year (BSc)
       * Analysis 
 
 
-
+##Websites I maintain
+[Personal Site](http://noah.binaryfox.ca/)\
+[Finite Babel](https://noahpinel.github.io/FiniteBabel/)
 ![NOAH's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahPinel&theme=react&show_icons=true&count_private=true)
 
 
