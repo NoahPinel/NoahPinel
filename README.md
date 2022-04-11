@@ -1,6 +1,6 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://noah.binaryfox.ca/)
-![Website shields.io](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-[Personal Site](http://noah.binaryfox.ca/)
+![Website shields.io](https://img.shields.io/badge/Maintained%3F-yes-green.svg)\
+[Personal Site](http://noah.binaryfox.ca/)\
 [Finite Babel](https://noahpinel.github.io/FiniteBabel/)
 ### ***Computer Science Student at the University of Calgary*** 
 Third year (BSc)
