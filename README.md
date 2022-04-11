@@ -13,9 +13,9 @@ Third year (BSc)
       * Analysis 
 
 
-##Websites I maintain
+## Websites I maintain\
 [Personal Site](http://noah.binaryfox.ca/)\
-[Finite Babel](https://noahpinel.github.io/FiniteBabel/)
+[Finite Babel](https://noahpinel.github.io/FiniteBabel/)\
 ![NOAH's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahPinel&theme=react&show_icons=true&count_private=true)
 
 
