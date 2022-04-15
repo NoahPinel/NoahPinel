@@ -7,10 +7,10 @@ Third year (BSc)
       * Cryptography  
 * Minor: Mathematics
   * General Math
-    * Combinatorics and Graph Theory 
-     * Algebra
-      * Number Theory
-      * Analysis 
+    * Algebra
+     * Analysis 
+      * Combinatorics and Graph Theory 
+       * Number Theory
 
 
 ### Websites I maintain
