@@ -6,7 +6,7 @@ Third year (BSc)
       * Compilers
       * Cryptography  
 * Minor: Mathematics
-  * General Math
+  * Pure Math
     * Algebra
      * Analysis 
       * Combinatorics and Graph Theory 
