@@ -4,7 +4,7 @@ Third year (BSc)
   * Concentration in Theoretical Computer Science
      * Computational Complexity
       * Compilers
-      * Cryptography  
+       
 * Minor: Mathematics
   * Pure Math
     * Algebra
