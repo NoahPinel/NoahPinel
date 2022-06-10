@@ -6,7 +6,6 @@ Third year (BSc)
       * Compilers
        
 * Minor: Mathematics
-  * Pure Math
     * Algebra
      * Analysis 
       * Combinatorics and Graph Theory 
