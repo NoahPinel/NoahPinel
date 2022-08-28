@@ -1,4 +1,4 @@
-### ***Computer Science Student at the University of Calgary*** 
+### ***Computer Science student at the University of Calgary*** 
 Third year (BSc)
 * Major: Computer Science 
   * Concentration in Theoretical Computer Science
