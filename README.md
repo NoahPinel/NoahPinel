@@ -9,7 +9,6 @@ Third year (BSc)
   * Pure Math
     * Algebra
      * Analysis 
-      * Combinatorics and Graph Theory 
        * Number Theory
 
 
