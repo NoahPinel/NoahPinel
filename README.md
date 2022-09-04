@@ -9,7 +9,7 @@ Third year (BSc)
   * Pure Math
     * Algebra
      * Analysis 
-       * Number Theory
+      * Number Theory
 
 
 ### Websites I maintain
