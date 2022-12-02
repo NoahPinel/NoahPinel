@@ -2,7 +2,6 @@
 Third year (BSc)
 * Major: Computer Science 
   * Concentration in Theoretical Computer Science
-     * Computational Complexity
       * Compilers
        
 * Minor: Mathematics
