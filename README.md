@@ -3,6 +3,7 @@ Third year (BSc)
 * Major: Computer Science 
   * Concentration in Theoretical Computer Science
       * Compilers
+       * Programming Languages
        
 * Minor: Mathematics
   * Pure Math
