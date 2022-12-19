@@ -8,8 +8,7 @@ Third year (BSc)
 * Minor: Mathematics
   * Pure Math
     * Algebra
-     * Analysis and Topology 
-      * Analytic Number Theory
+     * Analysis and Topology
 
 
 ### Websites I maintain
