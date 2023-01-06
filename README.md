@@ -16,7 +16,7 @@ Third year (BSc)
 [Finite Babel](https://noahpinel.github.io/FiniteBabel/)\
 [Noah Pinel's Math Blog](https://noahpinel.github.io/NoahPinelsMathBlog/index.html)\
 \
-![NOAH's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahPinel&theme=react&show_icons=true&count_private=true)
+![NOAH's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NoahPinel&theme=react&show_icons=true&count_private=true)
 
 
 
