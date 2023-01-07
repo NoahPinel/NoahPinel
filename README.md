@@ -14,13 +14,4 @@ Third year (BSc)
 ### Websites I maintain
 [Personal Site](http://noah.binaryfox.ca/)\
 [Finite Babel](https://noahpinel.github.io/FiniteBabel/)\
-[Noah Pinel's Math Blog](https://noahpinel.github.io/NoahPinelsMathBlog/index.html)\
-
-
-
-
-
-
-
-
-
+[Noah Pinel's Math Blog](https://noahpinel.github.io/NoahPinelsMathBlog/index.html)
