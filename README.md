@@ -1,6 +1,6 @@
 ### ***Computer Science student at the University of Calgary*** 
 
-Major: Short list of my interest's 
+A short list of my interest's 
 * Compilers
 * Categories
 * Proof assistant's
