@@ -1,10 +1,12 @@
 ### ***Computer Science student at the University of Calgary*** 
 
-* Major: Short list of my interest's 
-      * Compilers
-      * Programming Languages
-      * Algebra
-      * Analysis and Topology
+Major: Short list of my interest's 
+* Compilers
+* Categories
+* Proof assistant's
+* Measure Theory
+* Topology
+* Analytic NT
 
 
 ### Websites I maintain
