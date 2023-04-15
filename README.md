@@ -1,14 +1,10 @@
 ### ***Computer Science student at the University of Calgary*** 
-Third year (BSc)
-* Major: Computer Science 
-  * Concentration in Theoretical Computer Science
+
+* Major: Short list of my interest's 
       * Compilers
-       * Programming Languages
-       
-* Minor: Mathematics
-  * Pure Math
-    * Algebra
-     * Analysis and Topology
+      * Programming Languages
+      * Algebra
+      * Analysis and Topology
 
 
 ### Websites I maintain
