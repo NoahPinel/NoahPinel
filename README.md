@@ -2,6 +2,7 @@
 
 A short list of my interest's 
 * Compilers
+* Computer Vision
 * Categories
 * Proof assistant's
 * Measure Theory
