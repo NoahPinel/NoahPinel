@@ -4,7 +4,7 @@ A short list of my interest's
 * Compilers
 * Computer Vision
 * Categories
-* Proof assistant's
+* Proof Assistant's
 * Measure Theory
 * Topology
 * Analytic NT
