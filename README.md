@@ -1,13 +1,13 @@
 ### ***Computer Science student at the University of Calgary*** 
 
-A short list of my interest's 
-* Compilers
-* Computer Vision
-* Categories
+Key Words:
 * Proof Assistant's
-* Measure Theory
+* Categories
+* Compilers
 * Topology
 * Analytic NT
+* Computer Vision
+
 
 
 ### Websites I maintain
