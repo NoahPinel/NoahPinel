@@ -12,6 +12,6 @@ Key Words:
 
 ### Websites I maintain
 [Personal Site](http://noah.binaryfox.ca/)\
-[School Page](https://pages.cpsc.ucalgary.ca/~noah.pinel/)\
+[School Page](https://ug.cpsc.ucalgary.ca/~noah.pinel/)\
 [Finite Babel](https://noahpinel.github.io/FiniteBabel/)\
 [Noah Pinel's Math Blog](https://noahpinel.github.io/NoahPinelsMathBlog/index.html)
