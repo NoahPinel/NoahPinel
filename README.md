@@ -3,7 +3,5 @@
 Key Words:
 * Subsets of Algebra
 * Subsets of Analysis
-* Categories
-* Proof Assistant's
-* Compilers
+* TCS
 
