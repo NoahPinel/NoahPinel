@@ -4,5 +4,5 @@ Key Words:
 * Subsets of Algebra
 * Subsets of Analysis
 * TCS
-* Proof Assistant
+* Proof Assistants
 
