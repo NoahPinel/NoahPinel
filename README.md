@@ -1,4 +1,4 @@
-### ***Computer Science student at the University of Calgary*** 
+### ***Grad student at the University of Calgary*** 
 
 Key Words:
 * Statiscal Learning
