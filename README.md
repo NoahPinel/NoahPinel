@@ -1,6 +1,7 @@
 ### ***Computer Science student at the University of Calgary*** 
 
 Key Words:
-* Representation theory
-* TCS
-* And much more...
+* Statiscal Learning
+* Computational Neuroscience
+* Computer Vision
+* Numerical Analysis
