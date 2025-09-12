@@ -1,7 +1,7 @@
 ### ***Grad student at the University of Calgary*** 
 
 Key Words:
-* Statiscal Learning
+* Statistical Learning
 * Computational Neuroscience
 * Computer Vision
 * Numerical Analysis
